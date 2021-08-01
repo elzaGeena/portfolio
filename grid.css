@@ -1,0 +1,13 @@
+.container{
+    position: relative;
+    left: 50%;
+    display: grid;
+    grid-template-columns: 275px 275px;
+    grid-template-rows: 300px 300px;
+    gap:40px;  
+}
+.item{
+    
+    border-radius: 10px;
+    background-color: rgba(179, 36, 179, 0.781);
+}
